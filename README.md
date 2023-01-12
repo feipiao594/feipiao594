@@ -1,9 +1,5 @@
 ### Hi guys 👋
-### 这里是594飞飘的GitHub首页
-
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=feipiao594&theme=dark&hide_border=true" />
-</div><br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7442B&center=true&vCenter=true&width=435&lines=这里是594飞飘的GitHub首页)](https://git.io/typing-svg)
 
 ### 个人信息
 - 🔭 [南京邮电大学](https://www.njupt.edu.cn/)(NJUPT)通信工程专业(22级)在读本科生
@@ -21,3 +17,7 @@
 - 数据结构与算法，Leetcode(**^_^**)
 - Python manim创作磨练
 - 按照兴趣学习Mathematica QWQ
+
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=feipiao594&theme=dark&hide_border=true" />
+</div><br>
