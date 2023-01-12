@@ -1,7 +1,9 @@
 ### Hi guys 👋
 ### 这里是594飞飘的GitHub首页
 
-![](http://antzuhl.cn:4000/get/@feipiao594.readme)
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=feipiao594&theme=dark&hide_border=true" />
+</div><br>
 
 ### 个人信息
 - 🔭 [南京邮电大学](https://www.njupt.edu.cn/)(NJUPT)通信工程专业(22级)在读本科生
@@ -19,5 +21,3 @@
 - 数据结构与算法，Leetcode(**^_^**)
 - Python manim创作磨练
 - 按照兴趣学习Mathematica QWQ
-
-![](https://github-readme-stats.vercel.app/api?username=feipiao594)
