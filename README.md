@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi guys 👋
+### 这里是594飞飘的GitHub首页
 
-<!--
-**feipiao594/feipiao594** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 个人信息
+- 🔭 [南京邮电大学](https://www.njupt.edu.cn/)(NJUPT)通信工程专业(22级)在读本科生
+- 🌱 主攻C++，想成为一名Acmer
+- 👯 Minecraft插件开发
 
-Here are some ideas to get you started:
+### 爱好
+- Minecraft玩家，寻找一起玩的朋友
+- Coding，debug苦手(
+- Music🎵
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### To-do-list
+- 刷完CSAPP一书，当前进度第三章结束，完成bomblab
+- C++11到C++20学习中
+- 数据结构与算法，Leetcode(**^_^**)
+- Python manim创作磨练
+- 按照兴趣学习Mathematica QWQ
