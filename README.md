@@ -5,7 +5,7 @@
   <tr>
     <td>
       <a href="#">
-        <img src='https://github-readme-stats.vercel.app/api/top-langs?username=feipiao594&show_icons=true' width="400px" />
+        <img src='https://github-readme-stats.vercel.app/api/top-langs?username=feipiao594&layout=compact' width="400px" />
       </a>
     </td>
   </tr>
