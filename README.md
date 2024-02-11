@@ -1,7 +1,7 @@
 ### Hi guys 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=450&lines=Welcome+to+feipiao%E2%80%99s+github+homepage.)](https://git.io/typing-svg)
 
-<table align="right" border="0">
+<table align="right" border="0" frame=void>
   <tr>
     <td>
       <a href="#">
