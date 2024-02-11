@@ -1,5 +1,9 @@
-### Hi guys 👋
+---
+# Hello Everyone
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=450&lines=Welcome+to+feipiao%E2%80%99s+github+homepage.)](https://git.io/typing-svg)
+
+---
 
 <table align="right" border=0 rules=none>
   <tr>
@@ -18,21 +22,24 @@
   </tr>
 </table>
 
-### Personal Information / 个人信息
-- 🔭 [南京邮电大学](https://www.njupt.edu.cn/)(NJUPT)通信工程专业(22级)在读本科生
-- 🌱 主攻C++，最近正在学习Python与数学建模
-- 👯 Minecraft插件开发
+## Personal Information
+- 🔭 Undergraduate student majoring in Communication Engineering (Level 22) at [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/)(**NJUPT**).
+- **Electronic Engineer**, My main job is in the field of electronic information
+- **Free software enthusiasts**, Favorite to Linux, The Linux distribution I'm using is *Archlinux*.
+- Editor I used: *VSCode* and *Vim*, light and fast is my persuit. Yeah!
+- Coding is my hobbies, focus on **C/C++**, Coding, be overwhelmed by *debug*:(
+- Rust, I liked to taste something new too. Try *Haskell* ing ~~
+- 🎵 Music，*music game player*(Arcaea, Phigros, etc.). Now I'm a beginner in music composition.
+- Minecraft player, Looking for friends to play together.
 
-### 爱好
-- Minecraft玩家，寻找一起玩的朋友
-- Coding，debug苦手(
-- Music🎵
-
-### To-do-list
-- C++11-23学习中，rust学习中(**^_^**)
-- Python manim创作磨练
+## To-do-list
+- rust学习中(**^_^**)
+- Linux
 - 按照兴趣学习Mathematic QWQ
 
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=feipiao594&theme=dark&hide_border=true" />
-</div><br>
+---
+## 🏆 Github Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
