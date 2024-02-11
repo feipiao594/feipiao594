@@ -33,11 +33,10 @@
 - ♾️ | Passionate about **Mathematic**, The one-size-fits-all theorem is fascinating.
 
 ## 💪 | To-do-list
-//TO DO
 
 ---
 ## 🏆 | Github Profile Trophy
 
-<img width=800 src='https://github-profile-trophy.vercel.app/?username=feipiao594'>
+<img width=800 src='https://github-profile-trophy.vercel.app/?username=feipiao594&column=9'>
 
 ---
