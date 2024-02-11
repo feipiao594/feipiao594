@@ -1,11 +1,9 @@
 ### Hi guys 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=450&lines=Welcome+to+feipiao%E2%80%99s+github+homepage.)](https://git.io/typing-svg)
 
-<dl align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaa&show_icons=true" width="400px" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaa&show_icons=true" width="400px" />
-</dl>
+<img align=right src="https://github-readme-stats.vercel.app/api?username=aaa&show_icons=true" width="400px" />
+<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaa&show_icons=true" width="400px" />
+
 
 
 ### Personal Information / 个人信息
