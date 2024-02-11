@@ -54,6 +54,26 @@
 </td></tr></table>  
 <br/>  
 
+##  📈 | To Do List
+```rust
+fn main() {
+    let tasks = vec!["Learning Rust",
+                     "Continue writing blog",
+                     "The MCU and other EE technology",
+                     "Try to configure my linux from scratch"];
+    let select = | option | {
+        match option {
+            &"The MCU and other EE technology" => println!("{} | Important", option),
+            _ => println!("{}", option),
+        }
+    };
+    println!("There is my plan:");
+    for task in tasks.iter() {
+        select(task)
+    }
+}
+```
+
 ## 🏆 | Github Profile Trophy
 
 <img width=800 src='https://github-profile-trophy.vercel.app/?username=feipiao594&column=9'>
