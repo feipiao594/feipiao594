@@ -2,8 +2,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=450&lines=Welcome+to+feipiao%E2%80%99s+github+homepage.)](https://git.io/typing-svg)
 
 <a href="#">
-<img align="right" src='https://github-readme-stats.vercel.app/api?username=feipiao594&show_icons=true' width="400px" />
-<img align="right" src='https://github-readme-stats.vercel.app/api/top-langs?username=feipiao594&show_icons=true' width="400px" />
+  <dl align = "right">
+    <img src='https://github-readme-stats.vercel.app/api?username=feipiao594&show_icons=true' width="400px" />
+    <img src='https://github-readme-stats.vercel.app/api/top-langs?username=feipiao594&show_icons=true' width="400px" />
+  </dl>
 </a>
 
 ### Personal Information / 个人信息
