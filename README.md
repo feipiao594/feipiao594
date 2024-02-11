@@ -1,5 +1,5 @@
 ### Hi guys 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7442B&center=true&vCenter=true&width=435&lines=这里是594飞飘的GitHub首页)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7442B&center=true&vCenter=true&width=435&lines=这里是594飞飘的\nGitHub首页)](https://git.io/typing-svg)
 
 ### 个人信息
 - 🔭 [南京邮电大学](https://www.njupt.edu.cn/)(NJUPT)通信工程专业(22级)在读本科生
