@@ -1,11 +1,22 @@
 ### Hi guys 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=450&lines=Welcome+to+feipiao%E2%80%99s+github+homepage.)](https://git.io/typing-svg)
 
-<img align=right src="https://github-readme-stats.vercel.app/api?username=aaa&show_icons=true" width="400px" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaa&show_icons=true" width="400px" />
-
-
+<table align="right" border=0 rules=none>
+  <tr>
+    <td>
+      <a href="#">
+        <img src='https://github-readme-stats.vercel.app/api/top-langs?username=feipiao594&layout=compact' width="400px" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="#">
+        <img src='https://github-readme-stats.vercel.app/api?username=feipiao594&show_icons=true' width="400px" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### Personal Information / 个人信息
 - 🔭 [南京邮电大学](https://www.njupt.edu.cn/)(NJUPT)通信工程专业(22级)在读本科生
