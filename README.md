@@ -3,13 +3,8 @@
 
 <a href="#">
 <img align="right" src='https://github-readme-stats.vercel.app/api?username=feipiao594&show_icons=true' width="400px" />
-</a>
-
-<a href="#">
 <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs?username=feipiao594&show_icons=true' width="400px" />
 </a>
-
-
 
 ### Personal Information / 个人信息
 - 🔭 [南京邮电大学](https://www.njupt.edu.cn/)(NJUPT)通信工程专业(22级)在读本科生
