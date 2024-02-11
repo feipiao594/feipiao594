@@ -47,7 +47,7 @@
 </td></tr></table>  
 <br/>  
 <div align="center">  
-<a href="https://kde.org/" target="_blank"><img style="margin: 10px" src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg" alt="C" height="50" /></a>  
+<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
 <a href="https://archlinux.org/" target="_blank"><img style="margin: 10px" src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg" alt="C" height="50" /></a>  
 </div>
 </td><td valign="top" width="33%">
