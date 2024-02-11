@@ -1,26 +1,13 @@
----
 # Hello Everyone
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=450&lines=Welcome+to+feipiao%E2%80%99s+github+homepage.)](https://git.io/typing-svg)
 
 ---
-
-<table align="right" border=0 rules=none>
-  <tr>
-    <td>
-      <a href="#">
+<a href="#">
         <img src='https://github-readme-stats.vercel.app/api/top-langs?username=feipiao594&layout=compact' width="400px" />
       </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="#">
-        <img src='https://github-readme-stats.vercel.app/api?username=feipiao594&show_icons=true' width="400px" />
-      </a>
-    </td>
-  </tr>
-</table>
+<table align="right" border=0 rules=none>
+
 
 ## Personal Information
 - 🔭 Undergraduate student majoring in Communication Engineering (Level 22) at [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/)(**NJUPT**).
@@ -31,6 +18,10 @@
 - Rust, I liked to taste something new too. Try *Haskell* ing ~~
 - 🎵 Music，*music game player*(Arcaea, Phigros, etc.). Now I'm a beginner in music composition.
 - Minecraft player, Looking for friends to play together.
+
+<a href="#">
+        <img src='https://github-readme-stats.vercel.app/api?username=feipiao594&show_icons=true' width="400px" />
+</a>
 
 ## To-do-list
 - rust学习中(**^_^**)
