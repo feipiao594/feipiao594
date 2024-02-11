@@ -4,7 +4,7 @@
 
 ---
 <a href="#">
-        <img aligned=right src='https://github-readme-stats.vercel.app/api/top-langs?username=feipiao594&layout=compact' width="400px" />
+        <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs?username=feipiao594&layout=compact' width="400px" />
 </a>
 
 
@@ -19,7 +19,7 @@
 - Minecraft player, Looking for friends to play together.
 
 <a href="#">
-        <img aligned=right src='https://github-readme-stats.vercel.app/api?username=feipiao594&show_icons=true' width="400px" />
+        <img align="right" src='https://github-readme-stats.vercel.app/api?username=feipiao594&show_icons=true' width="400px" />
 </a>
 
 ## To-do-list
