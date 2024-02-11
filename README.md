@@ -7,8 +7,12 @@
         <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs?username=feipiao594&layout=compact' width="400px" />
 </a>
 
-
 ## Personal Information
+
+<a href="#">
+        <img align="right" src='https://github-readme-stats.vercel.app/api?username=feipiao594&show_icons=true' width="400px" />
+</a>
+
 - 🔭 Undergraduate student majoring in Communication Engineering (Level 22) at [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/)(**NJUPT**).
 - **Electronic Engineer**, My main job is in the field of electronic information
 - **Free software enthusiasts**, Favorite to Linux, The Linux distribution I'm using is *Archlinux*.
@@ -18,9 +22,7 @@
 - 🎵 Music，*music game player*(Arcaea, Phigros, etc.). Now I'm a beginner in music composition.
 - Minecraft player, Looking for friends to play together.
 
-<a href="#">
-        <img align="right" src='https://github-readme-stats.vercel.app/api?username=feipiao594&show_icons=true' width="400px" />
-</a>
+
 
 ## To-do-list
 - rust学习中(**^_^**)
