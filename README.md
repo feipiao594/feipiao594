@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=450&lines=Welcome+to+feipiao%E2%80%99s+github+homepage.)](https://git.io/typing-svg)
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs?username=feipiao594&layout=compact' height="180px"/>
+<img src='https://github-readme-stats.vercel.app/api/top-langs?username=feipiao594&layout=compact&hide=javascript,html,css' height="180px"/>
 <img src='https://github-readme-stats.vercel.app/api?username=feipiao594&show_icons=true' height="180px" />
 
 ## 🏃‍♂️ | Personal Information
