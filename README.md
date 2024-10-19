@@ -8,7 +8,7 @@
 ## 🏃‍♂️ | Personal Information
 - 🔭 | Undergraduate student majoring in Communication Engineering (Level 22) at [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/)(**NJUPT**).
 - 🔌 | **Electronic Engineer**, My main job is in the field of electronic information
-- 🐧 | **Free software enthusiasts**, Favorite to Linux, The Linux distribution I'm using is *Archlinux*.
+- 🐧 | **Free software enthusiasts**, Favorite to Linux, The Linux distribution I'm using is *Gentoo*.
 - 📝 | Editor I used: *VSCode* and *Vim*, light and fast is my persuit. Yeah!
 - 👀 | Coding is my hobbies, focus on **C/C++**, Coding, be overwhelmed by *debug*:(
 - 🌟 | Rust, I liked to taste something new too. Try *Haskell* ing ~~
@@ -34,7 +34,7 @@
 <br/>  
 <div align="center">  
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
-<a href="https://archlinux.org/" target="_blank"><img style="margin: 10px" src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg" alt="C" height="50" /></a>  
+<a href="https://www.gentoo.org/" target="_blank"><img style="margin: 10px" src="https://www.gentoo.org/assets/img/logo/gentoo-3d-small.png" alt="C" height="50" /></a>  
 </div>
 </td><td valign="top" width="33%">
 </td></tr></table>  
