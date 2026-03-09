@@ -2,9 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=450&lines=Welcome+to+feipiao%E2%80%99s+github+homepage.)](https://git.io/typing-svg)
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs?username=feipiao594&layout=compact&hide=javascript,html,css' height="180px"/>
-<img src='https://github-readme-stats.vercel.app/api?username=feipiao594&show_icons=true' height="180px" />
-
 ## 🏃‍♂️ | Personal Information
 - 🔭 | Undergraduate student majoring in Communication Engineering (Level 22) at [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/)(**NJUPT**).
 - 🔌 | **Electronic Engineer**, My main job is in the field of electronic information
@@ -59,8 +56,3 @@ fn main() {
     }
 }
 ```
-
-## 🏆 | Github Profile Trophy
-
-<img width=800 src='https://github-profile-trophy.vercel.app/?username=feipiao594&column=9'>
-
